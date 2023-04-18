@@ -11,7 +11,7 @@ import SwiftUI
 struct CoronaStatApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CountryView()
         }
     }
 }
